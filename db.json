@@ -1,9 +1,9 @@
 {
   "phoneNumber": "18675181010",
   "features": {
-    "callForwardNoReply": {
+    "callForwardNoReply": [{
       "provisioned": true,
       "destination": "tel:+18675182800"
-    }
+    }]
   }
 } 
