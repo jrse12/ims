@@ -1,6 +1,5 @@
 {
   "phoneNumber": "18675181010",
-  "domain": "ims.mnc660.mcc302.3gppnetwork.org",
   "features": {
     "callForwardNoReply": {
       "provisioned": true,
